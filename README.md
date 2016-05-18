@@ -18,3 +18,5 @@ $ cordova plugin add https://github.com/eleme/phonegap_baidu_sdk_location
 
 2) add armeabi-v7a platform to adapt more android device, but the baidu sdk don't support the mips and x86
 
+20160518
+将百度定位sdk的版本升级为6.23
